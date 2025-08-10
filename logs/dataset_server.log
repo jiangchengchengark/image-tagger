@@ -6,3 +6,6 @@
 [dataset_server] 2025/08/10 19:37:43 dataset.go:38: S3 客户端初始化成功
 [dataset_server] 2025/08/10 19:37:43 dataset.go:47: MongoDB 客户端初始化成功
 [dataset_server] 2025/08/10 19:37:43 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 19:45:14 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 19:45:14 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 19:45:14 dataset.go:56: 💪 创建索引成功

@@ -3,6 +3,14 @@
 ## 项目
 图像自动标注工具，支持SDXL和Flux两种标注模式，可自动生成图片描述标签。
 
+### 数据上传界面
+
+![数据上传界面](./docs/upload_page.png)
+
+### 数据集管理界面
+
+![数据集管理界面](./docs/dataset_management.png)
+
 ## 配置文件说明
 配置文件位于`config.yaml`，主要配置如下：
 
