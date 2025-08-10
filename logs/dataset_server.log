@@ -1,0 +1,8 @@
+[dataset_server] 2025/08/10 19:16:45 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 19:16:45 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 19:16:45 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 19:20:21 dataset.go:105: 接收到数据集文件: test.zip
+[dataset_server] 2025/08/10 19:20:21 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 19:37:43 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 19:37:43 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 19:37:43 dataset.go:56: 💪 创建索引成功

@@ -1,0 +1,76 @@
+[tagger] 2025/08/09 23:57:25 tagging_scheduler.go:46: 开始处理数据集: test3
+[tagger] 2025/08/10 01:59:04 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00010.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: d7d33cb5-78a8-4e82-82f2-de33f6ced338)')
+[tagger] 2025/08/10 02:54:36 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00011.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/resolve-cache/models/SmilingWolf/wd-vit-tagger-v3/7f6b584d0bd3f55c4531f14ba3d4761b2bccdc0f/selected_tags.csv (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 67fcc2f1-557b-4936-bda4-ee552fadc547)')
+[tagger] 2025/08/10 04:19:25 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00013.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 5ad894d7-ab02-427a-9230-d7a3b255cc3e)')
+[tagger] 2025/08/10 05:43:40 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00014.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/selected_tags.csv (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: e34de36b-b325-41b0-871c-59ce5e732314)')
+[tagger] 2025/08/10 05:52:09 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00016.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 5104bf61-774d-4f5b-9ecc-59ed3098cbf7)')
+[tagger] 2025/08/10 07:16:51 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00018.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 715595a1-8605-4ceb-b496-1dc9b044cfe1)')
+[tagger] 2025/08/10 07:34:27 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00021.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 2bef07e7-1ff2-4a0a-91b7-1a0ac87a1fa4)')
+[tagger] 2025/08/10 07:53:09 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00023.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/config.json (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: da8f2c47-4337-4490-8864-13007f2040f6)')
+[tagger] 2025/08/10 07:55:04 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00025.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 93d51984-41f9-4d33-b06a-450c92a93bd0)')
+[tagger] 2025/08/10 08:54:10 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00027.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 996412d2-9666-491f-90df-f199736d4120)')
+[tagger] 2025/08/10 09:55:09 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00029.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/config.json (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: 5b278890-c058-4df9-9eef-268980707d01)')
+[tagger] 2025/08/10 10:39:57 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test3/00031.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /SmilingWolf/wd-vit-tagger-v3/resolve/main/model.safetensors (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: c134f1a0-93ca-420c-8c25-847d5acaf139)')
+[tagger] 2025/08/10 10:43:16 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 10:43:16 tagging_scheduler.go:161: ✅ 完成数据集: test3
+[tagger] 2025/08/10 10:57:14 tagging_scheduler.go:46: 开始处理数据集: test445
+[tagger] 2025/08/10 11:04:16 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 11:04:17 tagging_scheduler.go:161: ✅ 完成数据集: test445
+[tagger] 2025/08/10 11:04:20 tagging_scheduler.go:46: 开始处理数据集: test2343
+[tagger] 2025/08/10 11:11:10 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 11:11:11 tagging_scheduler.go:161: ✅ 完成数据集: test2343
+[tagger] 2025/08/10 11:11:14 tagging_scheduler.go:46: 开始处理数据集: test334
+[tagger] 2025/08/10 11:12:35 tagging_scheduler.go:111: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test334/00016.jpg API 返回错误: 模型处理失败: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/resolve-cache/models/SmilingWolf/wd-vit-tagger-v3/7f6b584d0bd3f55c4531f14ba3d4761b2bccdc0f/config.json (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"), '(Request ID: be47e549-8ca6-4174-a67a-8df416c67e51)')
+[tagger] 2025/08/10 11:17:12 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 11:17:13 tagging_scheduler.go:161: ✅ 完成数据集: test334
+[tagger] 2025/08/10 12:45:01 tagging_scheduler.go:46: 开始处理数据集: test4
+[tagger] 2025/08/10 12:45:52 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 12:45:52 tagging_scheduler.go:161: ✅ 完成数据集: test4
+[tagger] 2025/08/10 13:53:45 tagging_scheduler.go:46: 开始处理数据集: test3444
+[tagger] 2025/08/10 13:54:48 tagging_scheduler.go:89: ⚠️ 跳过非图片文件: ._0000045
+[tagger] 2025/08/10 13:54:49 tagging_scheduler.go:161: ✅ 完成数据集: test3444
+[tagger] 2025/08/10 22:18:03 tagging_scheduler.go:53: 开始处理数据集: test
+[tagger] 2025/08/10 22:18:03 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00001.jpeg HTTP 422: {"detail":[{"type":"json_invalid","loc":["body",141],"msg":"JSON decode error","input":{},"ctx":{"error":"Expecting property name enclosed in double quotes"}}]}
+[tagger] 2025/08/10 22:18:03 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00002.jpeg HTTP 422: {"detail":[{"type":"json_invalid","loc":["body",141],"msg":"JSON decode error","input":{},"ctx":{"error":"Expecting property name enclosed in double quotes"}}]}
+[tagger] 2025/08/10 22:18:03 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 22:31:11 tagging_scheduler.go:53: 开始处理数据集: test1
+[tagger] 2025/08/10 22:31:11 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test1/00001.jpeg HTTP 422: {"detail":[{"type":"json_invalid","loc":["body",142],"msg":"JSON decode error","input":{},"ctx":{"error":"Expecting property name enclosed in double quotes"}}]}
+[tagger] 2025/08/10 22:31:11 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test1/00002.jpeg HTTP 422: {"detail":[{"type":"json_invalid","loc":["body",142],"msg":"JSON decode error","input":{},"ctx":{"error":"Expecting property name enclosed in double quotes"}}]}
+[tagger] 2025/08/10 22:31:11 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 22:32:33 tagging_scheduler.go:53: 开始处理数据集: test
+[tagger] 2025/08/10 22:32:34 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00001.jpeg API 返回错误: 图片:/var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00001.jpeg, WD模型处理失败
+[tagger] 2025/08/10 22:32:40 tagging_scheduler.go:168: ✅ 完成数据集: test
+[tagger] 2025/08/10 22:40:46 tagging_scheduler.go:53: 开始处理数据集: test
+[tagger] 2025/08/10 22:40:46 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00001.jpeg API 返回错误: 图片:/var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test/00001.jpeg, WD模型处理失败
+[tagger] 2025/08/10 22:41:09 tagging_scheduler.go:168: ✅ 完成数据集: test
+[tagger] 2025/08/10 22:43:16 tagging_scheduler.go:53: 开始处理数据集: test2
+[tagger] 2025/08/10 22:43:17 tagging_scheduler.go:118: ❌ 调用标签接口失败: /var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test2/00002.jpeg API 返回错误: 图片:/var/folders/qt/mxskqw_n53s38pqvhgz9qxtw0000gn/T/processed_test2/00002.jpeg, WD模型处理失败
+[tagger] 2025/08/10 22:43:17 tagging_scheduler.go:168: ✅ 完成数据集: test2
+[tagger] 2025/08/10 23:04:20 tagging_scheduler.go:53: 开始处理数据集: test3
+[tagger] 2025/08/10 23:04:22 tagging_scheduler.go:168: ✅ 完成数据集: test3
+[tagger] 2025/08/10 17:47:23 tagging_scheduler.go:53: 开始处理数据集: test4
+[tagger] 2025/08/10 17:47:23 tagging_scheduler.go:118: ❌ 调用标签接口失败: /tmp/processed_test4/00001.png Post "http://localhost:6004/tag_image": dial tcp [::1]:6004: connect: connection refused
+[tagger] 2025/08/10 17:47:23 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 17:47:56 tagging_scheduler.go:53: 开始处理数据集: test4444
+[tagger] 2025/08/10 17:47:56 tagging_scheduler.go:118: ❌ 调用标签接口失败: /tmp/processed_test4444/00001.png Post "http://localhost:6004/tag_image": dial tcp [::1]:6004: connect: connection refused
+[tagger] 2025/08/10 17:47:56 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 17:56:13 tagging_scheduler.go:53: 开始处理数据集: test44445
+[tagger] 2025/08/10 17:56:14 tagging_scheduler.go:118: ❌ 调用标签接口失败: /tmp/processed_test44445/00001.png HTTP 404: {"detail":"Not Found"}
+[tagger] 2025/08/10 17:56:14 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 17:59:07 tagging_scheduler.go:53: 开始处理数据集: test
+[tagger] 2025/08/10 17:59:07 tagging_scheduler.go:118: ❌ 调用标签接口失败: /tmp/processed_test/00001.png API 返回错误: 图片文件不可读
+[tagger] 2025/08/10 17:59:07 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 18:07:00 tagging_scheduler.go:53: 开始处理数据集: test3343
+[tagger] 2025/08/10 18:07:00 tagging_scheduler.go:118: ❌ 调用标签接口失败: /tmp/processed_test3343/00001.png API 返回错误: 图片文件不可读
+[tagger] 2025/08/10 18:07:01 tagging_scheduler.go:136: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 18:27:22 tagging_scheduler.go:54: 开始处理数据集: kim
+[tagger] 2025/08/10 18:27:22 tagging_scheduler.go:119: ❌ 调用标签接口失败: /tmp/processed_kim/00001.png Post "http://python-api:6004/tag_image": dial tcp 172.18.0.3:6004: connect: connection refused
+[tagger] 2025/08/10 18:27:22 tagging_scheduler.go:137: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 18:28:11 tagging_scheduler.go:54: 开始处理数据集: kim
+[tagger] 2025/08/10 18:28:11 tagging_scheduler.go:119: ❌ 调用标签接口失败: /tmp/processed_kim/00001.png API 返回错误: 模型处理失败: SDXL_Options.__init__() got an unexpected keyword argument 'image'
+[tagger] 2025/08/10 18:28:11 tagging_scheduler.go:137: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 18:33:35 tagging_scheduler.go:54: 开始处理数据集: test
+[tagger] 2025/08/10 18:33:35 tagging_scheduler.go:119: ❌ 调用标签接口失败: /tmp/processed_test/00001.png Post "http://python-api:6004/tag_image": dial tcp 172.18.0.3:6004: connect: connection refused
+[tagger] 2025/08/10 18:33:35 tagging_scheduler.go:137: ❌ 没有有效图片或标签失败: <nil>
+[tagger] 2025/08/10 18:36:06 tagging_scheduler.go:54: 开始处理数据集: yrdy
+[tagger] 2025/08/10 18:36:09 tagging_scheduler.go:169: ✅ 完成数据集: yrdy

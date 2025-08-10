@@ -1,0 +1,2 @@
+[mongo_client] 2025/08/10 19:16:45 mongo_client.go:35: ✅ MongoDB connected: mongodb://host.docker.internal:27017 (db: ai-dataset)
+[mongo_client] 2025/08/10 19:37:43 mongo_client.go:35: ✅ MongoDB connected: mongodb://host.docker.internal:27017 (db: ai-dataset)

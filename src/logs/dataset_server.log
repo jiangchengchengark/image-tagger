@@ -1,0 +1,93 @@
+[dataset_server] 2025/08/09 21:21:20 dataset.go:41: S3 客户端初始化成功
+[dataset_server] 2025/08/09 21:21:20 dataset.go:50: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/09 21:21:20 dataset.go:59: 💪 创建索引成功
+[dataset_server] 2025/08/09 23:57:22 dataset.go:92: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/09 23:57:23 dataset.go:125: ⭕️ 数据集 test3 插入记录保存至mongodb
+[dataset_server] 2025/08/10 10:57:12 dataset.go:92: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/10 10:57:13 dataset.go:125: ⭕️ 数据集 test445 插入记录保存至mongodb
+[dataset_server] 2025/08/10 11:01:48 dataset.go:92: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/10 11:01:48 dataset.go:125: ⭕️ 数据集 test2343 插入记录保存至mongodb
+[dataset_server] 2025/08/10 11:05:39 dataset.go:92: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/10 11:05:39 dataset.go:125: ⭕️ 数据集 test334 插入记录保存至mongodb
+[dataset_server] 2025/08/10 12:44:58 dataset.go:92: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/10 12:44:59 dataset.go:125: ⭕️ 数据集 test4 插入记录保存至mongodb
+[dataset_server] 2025/08/10 13:01:01 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 13:01:01 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 13:01:01 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 13:53:43 dataset.go:105: 接收到数据集文件: 0000045.zip
+[dataset_server] 2025/08/10 13:53:44 dataset.go:138: ⭕️ 数据集 test3444 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 15:59:24 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 15:59:24 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 15:59:24 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 16:00:00 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 16:00:00 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 16:00:00 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 22:16:55 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 22:16:55 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 22:16:55 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 22:18:02 dataset.go:105: 接收到数据集文件: test.jpeg.zip
+[dataset_server] 2025/08/10 22:18:02 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 22:30:41 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 22:30:41 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 22:30:41 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 22:31:10 dataset.go:105: 接收到数据集文件: test.jpeg.zip
+[dataset_server] 2025/08/10 22:31:10 dataset.go:138: ⭕️ 数据集 test1 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 22:32:10 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 22:32:10 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 22:32:10 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 22:32:33 dataset.go:105: 接收到数据集文件: test.jpeg.zip
+[dataset_server] 2025/08/10 22:32:33 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 22:40:45 dataset.go:105: 接收到数据集文件: test.jpeg.zip
+[dataset_server] 2025/08/10 22:40:45 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 22:43:15 dataset.go:105: 接收到数据集文件: 5b8b5cf7-cf5c-42d2-9249-76cda882f219.jpeg.zip
+[dataset_server] 2025/08/10 22:43:15 dataset.go:138: ⭕️ 数据集 test2 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 23:01:00 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 23:01:00 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 23:01:00 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 23:04:19 dataset.go:105: 接收到数据集文件: test3.zip
+[dataset_server] 2025/08/10 23:04:19 dataset.go:138: ⭕️ 数据集 test3 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 17:35:04 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 17:35:04 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 17:35:04 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 17:39:08 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 17:39:08 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 17:39:08 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 17:46:00 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 17:46:00 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 17:46:00 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 17:47:23 dataset.go:105: 接收到数据集文件: test4.zip
+[dataset_server] 2025/08/10 17:47:23 dataset.go:138: ⭕️ 数据集 test4 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 17:47:56 dataset.go:105: 接收到数据集文件: test4444.zip
+[dataset_server] 2025/08/10 17:47:56 dataset.go:138: ⭕️ 数据集 test4444 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 17:55:52 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 17:55:52 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 17:55:52 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 17:56:13 dataset.go:105: 接收到数据集文件: test44445.zip
+[dataset_server] 2025/08/10 17:56:13 dataset.go:138: ⭕️ 数据集 test44445 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 17:58:42 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 17:58:42 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 17:58:42 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 17:59:07 dataset.go:105: 接收到数据集文件: test.zip
+[dataset_server] 2025/08/10 17:59:07 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 18:00:10 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 18:00:10 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 18:00:10 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 18:06:24 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 18:06:24 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 18:06:24 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 18:07:00 dataset.go:105: 接收到数据集文件: test3343.zip
+[dataset_server] 2025/08/10 18:07:00 dataset.go:138: ⭕️ 数据集 test3343 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 18:26:55 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 18:26:56 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 18:26:56 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 18:27:21 dataset.go:105: 接收到数据集文件: kim.zip
+[dataset_server] 2025/08/10 18:27:21 dataset.go:138: ⭕️ 数据集 kim 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 18:28:10 dataset.go:105: 接收到数据集文件: kim.zip
+[dataset_server] 2025/08/10 18:28:10 dataset.go:138: ⭕️ 数据集 kim 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 18:33:16 dataset.go:38: S3 客户端初始化成功
+[dataset_server] 2025/08/10 18:33:16 dataset.go:47: MongoDB 客户端初始化成功
+[dataset_server] 2025/08/10 18:33:16 dataset.go:56: 💪 创建索引成功
+[dataset_server] 2025/08/10 18:33:35 dataset.go:105: 接收到数据集文件: test.zip
+[dataset_server] 2025/08/10 18:33:35 dataset.go:138: ⭕️ 数据集 test 插入记录保存至 mongodb
+[dataset_server] 2025/08/10 18:36:05 dataset.go:105: 接收到数据集文件: yrdy.zip
+[dataset_server] 2025/08/10 18:36:05 dataset.go:138: ⭕️ 数据集 yrdy 插入记录保存至 mongodb

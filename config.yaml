@@ -1,0 +1,25 @@
+# s3用于管理数据集
+s3:
+  endpoint_url: "http://host.docker.internal:9000"   # 改成 host.docker.internal
+  region_name: "us-east-1"
+  access_key: "minioadmin"
+  secret_key: "minioadmin"
+  bucket: "ai-dataset"
+  
+# mongodb 用于存储数据集元信息
+mongo:
+  uri: "mongodb://host.docker.internal:27017"        # 改成 host.docker.internal
+  database: "ai-dataset"
+
+#redis 用于缓存或队列控制
+redis:
+  host: "host.docker.internal"                        # 改成 host.docker.internal
+  port: "6379"
+  password: ""
+  database: 0
+
+# 阿里视觉大模型或其他支持openai兼容的视觉模型
+VLM:
+  api_key: ""
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  model_name: "qwen-vl-max"

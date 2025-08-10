@@ -1,0 +1,14 @@
+[s3_client] 2025/08/10 22:32:20 s3_client.go:236: Deleted S3 file: AI/train/I2M/SDXL/test1.zip
+[s3_client] 2025/08/10 22:32:22 s3_client.go:236: Deleted S3 file: AI/train/I2M/SDXL/test.zip
+[s3_client] 2025/08/10 22:34:44 s3_client.go:236: Deleted S3 file: AI/train/I2M/SDXL/test.zip
+[s3_client] 2025/08/10 17:47:46 s3_client.go:236: Deleted S3 file: AI/train/I2M/test4.zip
+[s3_client] 2025/08/10 17:58:48 s3_client.go:236: Deleted S3 file: AI/train/I2M/test4444.zip
+[s3_client] 2025/08/10 17:58:51 s3_client.go:236: Deleted S3 file: AI/train/I2M/test3.zip
+[s3_client] 2025/08/10 17:58:53 s3_client.go:236: Deleted S3 file: AI/train/I2M/test44445.zip
+[s3_client] 2025/08/10 17:58:54 s3_client.go:236: Deleted S3 file: AI/train/I2M/SDXL/test2.zip
+[s3_client] 2025/08/10 17:58:55 s3_client.go:236: Deleted S3 file: AI/train/I2M/SDXL/test.zip
+[s3_client] 2025/08/10 18:27:56 s3_client.go:236: Deleted S3 file: AI/train/I2M/test.zip
+[s3_client] 2025/08/10 18:27:59 s3_client.go:236: Deleted S3 file: AI/train/I2M/test3343.zip
+[s3_client] 2025/08/10 18:28:00 s3_client.go:236: Deleted S3 file: AI/train/I2M/kim.zip
+[s3_client] 2025/08/10 18:33:22 s3_client.go:236: Deleted S3 file: AI/train/I2M/kim.zip
+[s3_client] 2025/08/10 18:35:57 s3_client.go:236: Deleted S3 file: AI/train/I2M/test.zip
