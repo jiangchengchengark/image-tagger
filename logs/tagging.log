@@ -1,2 +1,8 @@
 [tagger] 2025/08/10 19:20:21 tagging_scheduler.go:54: 开始处理数据集: test
 [tagger] 2025/08/10 19:20:26 tagging_scheduler.go:169: ✅ 完成数据集: test
+[tagger] 2025/08/11 07:02:09 tagging_scheduler.go:54: 开始处理数据集: realtime_tagger
+[tagger] 2025/08/11 07:02:20 tagging_scheduler.go:169: ✅ 完成数据集: realtime_tagger
+[tagger] 2025/08/11 08:32:55 tagging_scheduler.go:54: 开始处理数据集: test5
+[tagger] 2025/08/11 08:33:00 tagging_scheduler.go:169: ✅ 完成数据集: test5
+[tagger] 2025/08/11 08:33:17 tagging_scheduler.go:54: 开始处理数据集: test6
+[tagger] 2025/08/11 08:33:31 tagging_scheduler.go:169: ✅ 完成数据集: test6
