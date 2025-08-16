@@ -20,7 +20,7 @@ redis:
 
 # 阿里视觉大模型或其他支持openai兼容的视觉模型
 VLM:
-  api_key: "sk-677d714e173b445699e54704faa0bfc3"
+  api_key: ""
   base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   model_name: "qwen-vl-max"
   system_prompt: |
