@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Go 相关
+*.go
+go.mod
+go.sum
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据、模型文件
+data/
+models/
+*.pth
+*.pt
+
+# 其他不必要的文件
+.DS_Store
