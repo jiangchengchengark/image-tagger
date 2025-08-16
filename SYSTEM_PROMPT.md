@@ -45,7 +45,7 @@
     "final_prompt": "Final combined prompt"
   }
 }
-
+```
 ## 3. 自定义版本
 ```json
 {
